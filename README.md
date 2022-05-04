@@ -1,4 +1,4 @@
-## Constant-Beamwidth Kronecker Product Beamforming with Nonuniform Planar Arrays  
+# Constant-Beamwidth Kronecker Product Beamforming with Nonuniform Planar Arrays  
 Please cite our paper that is available at <https://www.frontiersin.org/article/10.3389/frsip.2022.829463>.  
 
 We included two main scripts to show how to create constant-beamwidth beamformers for symmetric nonuniform linear and planar arrays:  
